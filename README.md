@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binsaif99&label=Profile%20views&color=1dd341&style=plastic" alt="binsaif99" /> </p>
 
 
-- 🔭 I’m currently working on **My Core Skill Development.**
+- 🔭 I’m currently working on **My Core Skill Developments.**
 
 - 🌱 I’m currently learning **Database Management System and Frameworks.**
 
