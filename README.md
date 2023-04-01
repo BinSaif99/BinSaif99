@@ -52,8 +52,8 @@
 </div>
   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binsaif99&show_icons=true&theme=dark&locale=en&layout=compact" alt="binsaif99" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binsaif99&show_icons=true&theme=dark&locale=en&layout=compact" alt="binsaif99" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binsaif99&show_icons=true&theme=dark&locale=en" alt="binsaif99" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binsaif99&show_icons=true&theme=dark&locale=en" alt="binsaif99" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binsaif99&theme=dark" alt="binsaif99" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binsaif99&theme=dark" alt="binsaif99" /></p>-->
