@@ -48,7 +48,7 @@
 
 <div align="center">
 <a href="https://github.com/binsaif99" align ="left"><img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=binsaif99&theme=radical"></a>
-<a href="https://github.com/binsaif99" align ="right"><img width="59%" src="http://github-readme-streak-stats.herokuapp.com/?user=binsaif99&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=e6e6fa&fire=3EB489&sideNums=e6e6fa"></a>
+<a href="https://github.com/binsaif99" align ="right"><img width="59%" src="http://github-readme-streak-stats.herokuapp.com/?user=binsaif99&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=e6e6fa&fire=e6e6fa&sideNums=e6e6fa"></a>
 </div>
   
 
