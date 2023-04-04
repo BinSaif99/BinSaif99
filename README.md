@@ -40,9 +40,7 @@
 <div align="center">
 <h3 align="center">Overview:</h3>
 
-<div align="center">
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username= binsaif99&theme=radical&show_icons=true&locale=en&layout=compact" alt="binsaif99" width="70%" /> </p>
-</div>
+
 
 
 
