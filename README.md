@@ -49,7 +49,7 @@
 <!--<a href="https://github.com/binsaif99" align ="right"><img width="59%" src="http://github-readme-streak-stats.herokuapp.com/?user=binsaif99&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=3EB489&fire=3EB489&sideNums=3EB489"></a>-->
 </div>
  <div align="center"> 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=binsaif99&theme=dark" alt="binsaif99" /></p>
+<a href="https://github.com/RubaiyadNoorShahriar1999" align ="right"><img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=binsaif99&theme=dark" alt="binsaif99"></a>
    </div>
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binsaif99&show_icons=true&theme=dark&locale=en&layout=compact" alt="binsaif99" /></p>-->
 
