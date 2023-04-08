@@ -1,8 +1,9 @@
 
 
 
-![MasterHead align="center"](https://camo.githubusercontent.com/a93031e8b1d874c7d1f76754c67db6530b3087117e7e5ca4dd9c0d903d53efaf/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)
-<h1 align="center">𝐆𝐫𝐞𝐞𝐭𝐢𝐧𝐠𝐬!!! ✨, 𝐈'𝐦 𝐀𝐥𝐢𝐟 𝐁𝐢𝐧 𝐒𝐚𝐢𝐟</h1>
+
+![binsaif99](https://user-images.githubusercontent.com/78260813/230742210-cc089243-ef9f-473e-b598-f23e5615396c.gif)
+<h2 align="center">𝐆𝐫𝐞𝐞𝐭𝐢𝐧𝐠𝐬!!! ✨, 𝐈'𝐦 𝐀𝐥𝐢𝐟 𝐁𝐢𝐧 𝐒𝐚𝐢𝐟</h2>
 <h3 align="center">An independent and self-motivated person. My intention is to pursue a dynamic career life as a Software Engineer. I seek and maintain a full-time position that offers professional challenges utilizing interpersonal skills, excellent time management, and problem-solving skills. Besides, I enjoy doing competitive programming a lot cause it's fun to find new problems and errors.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/67708b96447bc1f55b984522ef007664ce1054e4f2cd1dd149c856ac341ebf9f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966">
 
