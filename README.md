@@ -8,6 +8,8 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/67708b96447bc1f55b984522ef007664ce1054e4f2cd1dd149c856ac341ebf9f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binsaif99&label=Profile%20views&color=1dd341&style=plastic" alt="binsaif99" /> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=binsaif99&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in) 
 
 
 - 💼 I’m currently working on **My Core Skill Developments.**
