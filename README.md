@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/binnash_saif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binnash_saif" height="30" width="40" /></a>
+<a href="https://twitter.com/binnash_saif" target="blank"><img align="center" src="https://github.com/BinSaif99/discord-bot-sender/blob/master/twitter.png" alt="binnash_saif" height="30" /></a>
 <a href="https://linkedin.com/in/binsaif99" target="blank"><img align="center" src="https://github.com/BinSaif99/discord-bot-sender/blob/master/linkedin.png" alt="binsaif99" height="30"  /></a>
 <a href="https://fb.com/binsaif99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="binsaif99" height="30" width="40" /></a>
 <a href="https://instagram.com/bin_saif99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bin_saif99" height="30" width="40" /></a>
