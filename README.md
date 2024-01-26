@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [**here...**](https://github.com/BinSaif99?tab=repositories)
 
-- ⚡ Fun fact **I watch Anime most of the time 😂**
+
 
 <hr>
 <h3 align="center">Connect with me :</h3>
